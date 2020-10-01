@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-My name is Sungyeon, a student based in Philadelphia
-- 🌱 I’m currently learning AI and full stack development! 
+My name is Sungyeon, a collegee student based in Philadelphia.
+- 🌱 My concentrations are in AI and full stack development! 
 
 <!--
 **sungyeonu/sungyeonu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
