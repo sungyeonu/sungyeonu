@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Sungyeon, a collegee student based in Philadelphia.
-- 🌱 My concentrations are in AI and full stack development! 
-
+My name is Sungyeon, an undergrad student based in Philadelphia and Northern VA.
+- 🌱 My concentrations are in AI and full stack development (React + Typescript, Flask)! 
+- 📫 sungyeonu@gmail.com
 <!--
 **sungyeonu/sungyeonu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
