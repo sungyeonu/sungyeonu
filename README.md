@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 My name is Sungyeon, an undergrad student based in Philadelphia and Northern VA.
-- 🌱 My concentrations are in AI and full stack development (React + Typescript, Flask)! 
-- 📫 sungyeonu@gmail.com
+- 🌱 My concentrations are in AI and full stack development (React + Typescript, Flask)!
+- 👯 I’m looking to collaborate on React projects!
+- 📫 sy527@drexel.edu
 <!--
 **sungyeonu/sungyeonu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
